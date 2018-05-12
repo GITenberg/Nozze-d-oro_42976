@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8678
     wikipedia: http://en.wikipedia.org/wiki/Enrico_Castelnuovo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42976#Nozze-d-oro
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2013-06-18'
 gutenberg_type: Text
